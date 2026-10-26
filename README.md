@@ -1,6 +1,6 @@
 # Free PDF RAG Chatbot — Google Colab
 
-A small, **API-key-free PDF question-answering notebook** using a locally executed open-weight Qwen model inside Google Colab. It is a separate educational project from Chat Scholar.
+A small, **API key free PDF question answering notebook** using a locally executed open-weight Qwen model inside Google Colab. It is a separate educational project from Chat Scholar.
 
 **No paid inference API is required.** Public model weights are downloaded from Hugging Face, and inference runs within the Colab runtime using PyTorch. Google's free Colab resources may have availability, memory, and usage limits. You do **not** need an OpenAI key, a Groq key, or a Hugging Face token for these public models.
 
